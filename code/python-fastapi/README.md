@@ -14,7 +14,7 @@ Starter shell for the Food Truck Challenge using Python and FastAPI.
 
 ```bash
 uv sync --extra dev
-uv run uvicorn main:app --reload
+uv run python main.py
 ```
 
 ## Running Tests
